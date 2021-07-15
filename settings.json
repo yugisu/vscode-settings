@@ -1,0 +1,139 @@
+{
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Ayu Mirage",
+  "workbench.activityBar.visible": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.sideBar.location": "left",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.revealIfOpen": true,
+  "workbench.statusBar.visible": true,
+  "files.autoSave": "onFocusChange",
+  "files.associations": {
+    "*.env*": "properties"
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Source Code Pro, Consolas, monospace",
+  "editor.fontLigatures": false,
+  "editor.minimap.enabled": false,
+  "editor.tabCompletion": "on",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": false
+  },
+  "editor.quickSuggestionsDelay": 20,
+  "editor.renderControlCharacters": false,
+  "editor.detectIndentation": false,
+  "editor.formatOnSaveTimeout": 250,
+  "editor.suggestSelection": "first",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+  },
+  "explorer.autoReveal": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.format.enable": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.implementationsCodeLens.enabled": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.suggestSmartCommit": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[shellscript]": {
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": true
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "storage",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "constant.language",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.class.builtin",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "sideBar.foreground": "#90a3ad"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "timeline.excludeSources": ["git-history"],
+  "workbench.editor.scrollToSwitchTabs": true,
+  "prettier.endOfLine": "auto",
+  "prettier.printWidth": 140,
+  "workbench.tree.renderIndentGuides": "always",
+  "window.newWindowDimensions": "inherit",
+  "window.title": "${dirty}${separator}${rootName}${separator}${activeEditorShort}${separator}${appName}",
+  "editor.dragAndDrop": false,
+  "editor.selectionClipboard": false,
+  "window.customMenuBarAltFocus": false,
+  "window.menuBarVisibility": "hidden",
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "bottom",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.showFoldingControls": "always",
+  "workbench.panel.opensMaximized": "never",
+  "window.enableMenuBarMnemonics": false,
+  "editor.suggest.insertMode": "replace",
+  "editor.wordBasedSuggestionsMode": "currentDocument",
+  "git.allowForcePush": true,
+  "outline.problems.badges": false,
+  "workbench.editor.decorations.badges": false,
+  "bracket-pair-colorizer-2.showVerticalScopeLine": false,
+  "docker.showStartPage": false,
+  "editor.fontSize": 15,
+  "debug.inlineValues": true,
+  "gitlens.views.commits.pullRequests.showForBranches": false,
+  "typescript.tsserver.maxTsServerMemory": 6144,
+  "security.workspace.trust.enabled": false
+}
